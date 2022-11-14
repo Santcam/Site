@@ -1,0 +1,38 @@
+
+body {
+    background: #d6d6d6;
+}
+
+#ms {
+    width: 100%;
+}
+
+#ed {
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+
+#Visiting {
+    width: 45%;
+    margin: auto;
+    display: block;
+}
+
+#brazil {
+    left: 250px; 
+    top: 505px; position: absolute; 
+    width: 4%;
+}
+
+#eua {
+    left: 250px; 
+    top: 505px; position: absolute; 
+    width: 4%;
+}
+
+}
+
+p {
+    text-align: center; font-size: 25px;
+}
